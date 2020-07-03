@@ -31,7 +31,7 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 - Introduction to Design for Communication
 - In-Class Workshop: *Ideation & Constraints*
 - [Reading]() Understanding Comics (Chapters 5-6)
-- [Assignment 1]() _Due: 08/06/20 Class 6_
+- [Assignment 1]() Animated Poster _Due: 08/06/20 Class 6_
 
 #### #2: Design & Semiotics (07/23/20)
 - Image Making
@@ -71,7 +71,7 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 - World Building Design
 - Mind Maps
 - Moodboards
-- [Assignment 2]() _Due: 08/20/20 Class 6_
+- [Assignment 2]() Open Call _Due: 08/20/20 Class 6_
 
 #### Friday Resident Workshop (08/07/20)
 - Adobe Photoshop
