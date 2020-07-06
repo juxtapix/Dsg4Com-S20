@@ -121,11 +121,15 @@ Edition: 1st
 #### GRADING AND ATTENDANCE
 Grades for the course will follow the standard A through F letter grading system and will be determined by the following breakdown:
 
-30% Participation
-50% Assignments
-20% Reading responses and other written work
+30% Participation   
+50% Assignments   
+20% Reading responses and other written work   
 
-At most two (2) unexcused absences will be tolerated without effect to your grade. Any more than two (2) unexcused absences will result in a lowering of your final grade by one whole grade for each unexcused absence. For example, three (3) unexcused absences will result in your highest possible grade being a B instead of an A. Four (4) unexcused absences will result in your highest possible grade being a C and so on. Six (6) unexcused absences would result in an automatic F for the course. Two (2) late arrivals will count for one (1) absence.
+
+More than two absences will result in a failing grade. Arriving to two classes more than 15 minutes late counts as an absence. Please notify me as early as possible if you are unable to come to class.
+Assignments should be posted online 24h before the class.
+
+Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
 #### PARTICIPATION:
 This class will be highly participatory. You are expected to contribute to discussions, give feedback to your peers, and otherwise fully participate in class.
