@@ -103,7 +103,7 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 ## Requirements
 
 #### PRE-REQUISITES
-Pre-requisites include an open mind, the drive to make and coolaborate.
+Pre-requisites include an open mind, the drive to make and collaborate.
 
 #### EQUIPMENT
 You will need a modern laptop (4 years old or younger is a good rule of thumb), with Adobe Photoshop, Adobe Illustrator and Adobe After Effects installed.
