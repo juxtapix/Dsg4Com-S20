@@ -91,7 +91,7 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 - Help Session
 
 ### Week 5
-#### #9: Fine-tuning (08/18/20)
+#### #9: Framing (08/18/20)
 - Putting it all together
 - Supporting the story arc
 
@@ -154,7 +154,7 @@ Grading will follow the same guidelines as above; on time and meeting the criter
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.  More information can be found on Tisch’s page regarding Academic Integrity (http://tisch.nyu.edu/faculty/academic-integ).
 
 #### ACCESSIBILITY
-Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
+Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information. Recording of lectures will be made for accommodation purposes only and will not be published online or shared otherwise.
 
 #### WELLNESS
 Your health and safety are a priority at NYU.  If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7  NYUWellness Exchange 212-443-9999.
