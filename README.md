@@ -30,8 +30,8 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 - Goals and Requirements
 - Introduction to Design for Communication
 - In-Class Workshop: *Ideation & Constraints*
-- [Reading]() Understanding Comics (Chapters 5-6)
-- [Assignment 1]() Animated Poster _Due: 08/06/20 Class 6_
+- [Reading](https://github.com/juxtapix/Dsg4Com-S20/wiki/01.-Design-Frameworks#readings) Understanding Comics (Chapters 5-6)
+- [Assignment 1](https://github.com/juxtapix/Dsg4Com-S20/wiki/01.-Design-Frameworks#assignment) Animated Poster _Due: 08/06/20 Class 6_
 
 #### #2: Design & Semiotics (07/23/20)
 - Image Making
