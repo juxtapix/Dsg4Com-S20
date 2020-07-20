@@ -119,7 +119,6 @@ Edition: 1st
 
 
 #### GRADING AND ATTENDANCE
-Grades for the course will follow the standard A through F letter grading system and will be determined by the following breakdown:
 
 30% Participation   
 50% Assignments   
