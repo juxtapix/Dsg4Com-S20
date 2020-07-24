@@ -37,8 +37,8 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 - Image Making
 - Semiotics and Design
 - Visual Analysis
-- [Reading]() Understanding Comics (Chapters 7-9)
-- [Mini Assignment]() Visual Analysis _Due: 07/28/20 Class 3_
+- [Reading](https://github.com/juxtapix/Dsg4Com-S20/wiki/02.-Semiotics#readings) Understanding Comics (Chapters 7-9)
+- [Mini Assignment](https://github.com/juxtapix/Dsg4Com-S20/wiki/02.-Semiotics#assignment) Visual Analysis _Due: 07/28/20 Class 3_
 
 #### Friday Resident Workshop (07/24/20)
 - Adobe Illustrator
