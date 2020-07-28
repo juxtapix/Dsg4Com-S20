@@ -44,11 +44,11 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 - Adobe Illustrator
 
 ### Week 2
-#### #3: Design In Motion (07/28/20)
+#### #3: Ideas In Motion (07/28/20)
 - Introduction to Animation
 - Principles of Animation
 - Motiongraphics
-- [Reading]() _Due: 08/11/20 Class 7_
+- [Reading](https://github.com/juxtapix/Dsg4Com-S20/wiki/03.-Ideas-in-Motion#readings) _Due: 08/11/20 Class 7_
 
 #### #4: Gestalt (07/30/20)
 - Respecting & Breaking the Grid
