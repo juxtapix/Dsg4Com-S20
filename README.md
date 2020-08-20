@@ -95,8 +95,8 @@ In this 5 week class, students will utilize Adobe Creative Cloud tools, and comb
 - Putting it all together
 - Supporting the story arc
 
-#### #10: Finals (08/20/20)
-- Finals Presentations and Critique
+#### #10: Critique (08/20/20)
+- Final Presentation and Critique
 
 ---
    
